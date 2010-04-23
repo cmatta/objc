@@ -1,12 +1,12 @@
 Tlottery
 v7
 r0
-t293382179.548477
+t293490803.800919
 cCheck dependencies
-cProcessPCH /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/chris/Projects/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/chris/Projects/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/chris/Projects/lottery/build/Debug/lottery normal x86_64
+cProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/chris/Projects/objc/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/chris/Projects/objc/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chris/Projects/objc/lottery/build/Debug/lottery normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
 c000000004BA713D600000000000000EE
@@ -24,8 +24,8 @@ t1267792823
 s5094
 
 N/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B25D6F80000000000B37440
-t1260771064
+c000000004B73AA190000000000B37440
+t1265871385
 s11760704
 
 N/Users/chris/Projects/lottery/LotteryEntry.h
@@ -87,13 +87,60 @@ t1271435371
 s156
 i<Foundation/Foundation.h>
 
+N/Users/chris/Projects/objc/lottery/LotteryEntry.h
+c000000004BCE10D30000000000000220
+t1271795923
+s544
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/chris/Projects/objc/lottery/LotteryEntry.m
+c000000004BCE1839000000000000047F
+t1271797817
+s1151
+i"LotteryEntry.h"
+
+N/Users/chris/Projects/objc/lottery/build/Debug/lottery
+t1271797821
+s16592
+
+N/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+t1271797821
+s16240
+
+N/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList
+c000000004BCE10D300000000000000DB
+t1271795923
+s219
+
+N/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+t1271797778
+s9636
+
+N/Users/chris/Projects/objc/lottery/lottery.m
+c000000004BCE180C000000000000040B
+t1271797772
+s1035
+i<Foundation/Foundation.h>
+i"LotteryEntry.h"
+
+N/Users/chris/Projects/objc/lottery/lottery_Prefix.pch
+c000000004BCCBEC5000000000000009C
+t1271709381
+s156
+i<Foundation/Foundation.h>
+
 N/var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch.gch
 t1271436039
 s41401104
 
+N/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch
+t1271795934
+s41401104
+
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies293382179#293382179#0(0"0(0#1#0"4300788184#0"0#
+lSLF07#2@18"Check dependencies293490803#293490803#0(0"0(0#1#0"4300739032#0"0#
 
 CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/chris/Projects/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s293382179.067989
@@ -107,6 +154,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@52"Compile /Users/chris/Projects/lottery/LotteryEntry.m293382179#293382179#0(0"0(0#0#44"/Users/chris/Projects/lottery/LotteryEntry.m4300788184#1367"    cd /Users/chris/Projects/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/lottery/build/Debug -I/Users/chris/Projects/lottery/build/Debug/include -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch -c /Users/chris/Projects/lottery/LotteryEntry.m -o /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
+
+CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/chris/Projects/objc/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293490620.672461
+e293490621.194748
+r1
+xCompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+x/Users/chris/Projects/objc/lottery/LotteryEntry.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/chris/Projects/objc/lottery/LotteryEntry.m293490620#293490621#0(0"0(0#0#49"/Users/chris/Projects/objc/lottery/LotteryEntry.m4300739032#1422"    cd /Users/chris/Projects/objc/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/objc/lottery/build/Debug -I/Users/chris/Projects/objc/lottery/build/Debug/include -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch -c /Users/chris/Projects/objc/lottery/LotteryEntry.m -o /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
 
 CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LottyerEntry.o /Users/chris/Projects/lottery/LottyerEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -124,6 +184,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@47"Compile /Users/chris/Projects/lottery/lottery.m293382179#293382179#0(0"0(0#0#39"/Users/chris/Projects/lottery/lottery.m4300788184#1357"    cd /Users/chris/Projects/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/lottery/build/Debug -I/Users/chris/Projects/lottery/build/Debug/include -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch -c /Users/chris/Projects/lottery/lottery.m -o /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
 
+CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/chris/Projects/objc/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293490577.010758
+e293490578.388716
+r1
+xCompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+x/Users/chris/Projects/objc/lottery/lottery.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/chris/Projects/objc/lottery/lottery.m293490577#293490578#0(0"0(0#0#44"/Users/chris/Projects/objc/lottery/lottery.m4300739032#1412"    cd /Users/chris/Projects/objc/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/objc/lottery/build/Debug -I/Users/chris/Projects/objc/lottery/build/Debug/include -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch -c /Users/chris/Projects/objc/lottery/lottery.m -o /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
+
 CLd /Users/chris/Projects/lottery/build/Debug/lottery normal x86_64
 s293382179.505514
 e293382179.548432
@@ -133,6 +206,16 @@ x/Users/chris/Projects/lottery/build/Debug/lottery
 xnormal
 xx86_64
 lSLF07#2@54"Link /Users/chris/Projects/lottery/build/Debug/lottery293382179#293382179#0(0"0(0#0#0"4300788184#475"    cd /Users/chris/Projects/lottery    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Projects/lottery/build/Debug -F/Users/chris/Projects/lottery/build/Debug -filelist /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/chris/Projects/lottery/build/Debug/lottery0#
+
+CLd /Users/chris/Projects/objc/lottery/build/Debug/lottery normal x86_64
+s293490621.194839
+e293490621.232477
+r1
+xLd
+x/Users/chris/Projects/objc/lottery/build/Debug/lottery
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/chris/Projects/objc/lottery/build/Debug/lottery293490621#293490621#0(0"0(0#0#0"4300739032#500"    cd /Users/chris/Projects/objc/lottery    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Projects/objc/lottery/build/Debug -F/Users/chris/Projects/objc/lottery/build/Debug -filelist /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/chris/Projects/objc/lottery/build/Debug/lottery0#
 
 CProcessPCH /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s293128816.118957
@@ -146,4 +229,17 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@29"Precompile lottery_Prefix.pch293128816#293128839#0(0"0(0#0#48"/Users/chris/Projects/lottery/lottery_Prefix.pch4300788184#1266"    cd /Users/chris/Projects/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/lottery/build/Debug -I/Users/chris/Projects/lottery/build/Debug/include -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -c /Users/chris/Projects/lottery/lottery_Prefix.pch -o /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-gzbqhsfhcebcypfqkxbubnycocqr/lottery_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293488723.939888
+e293488734.255170
+r1
+xProcessPCH
+x/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch
+xlottery_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile lottery_Prefix.pch293488724#293488734#0(0"0(0#0#53"/Users/chris/Projects/objc/lottery/lottery_Prefix.pch8028844408581743616#1316"    cd /Users/chris/Projects/objc/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/chris/Projects/objc/lottery/build/Debug -I/Users/chris/Projects/objc/lottery/build/Debug/include -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -c /Users/chris/Projects/objc/lottery/lottery_Prefix.pch -o /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch0#
 

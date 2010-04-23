@@ -10,9 +10,12 @@
 
 
 @implementation LotteryEntry
--(id)init
+-(id)initWithEntryDate:(NSCalendarDate *)theDate
 {
-	[super init];
+	if(![super init])
+		return nil;
+	NSAssert(theDate == nil, @"Argument must be non-nil");
+	entryDate = [theDate retain];
 	firstNumber = random() % 100 + 1;
 	secondNumber = random() % 100 + 1;
 	thirdNumber = random() % 100 + 1;
@@ -20,8 +23,15 @@
 	return self;
 }
 
+-(id)init 
+{
+	return [self initWithEntryDate:[NSCalendarDate calendarDate]];
+}
+
 -(void)setEntryDate:(NSCalendarDate *)date
 {
+	[date retain];
+	[entryDate release];
 	entryDate = date;
 }
 
@@ -55,9 +65,17 @@
 {
 	NSString *result;
 	result = [[NSString alloc]initWithFormat:@"%@ = %d, %d, %d, and %d",
-			  [entryDate descriptionWithCalendarFormat:@"%b %d %Y"],
+			  [entryDate descriptionWithCalendarFormat:@"%b %d, %Y"],
 			  firstNumber, secondNumber, thirdNumber, fourthNumber];
+	[result autorelease];
 	return result;
+}
+
+-(void)dealloc
+{
+	NSLog(@"deallocing %@", self);
+	[entryDate release];
+	[super dealloc];
 }
 
 @end

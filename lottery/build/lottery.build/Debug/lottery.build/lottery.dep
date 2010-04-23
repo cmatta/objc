@@ -1,3 +1,7 @@
+e87c597925fcd948d0ff3cfc956f3f30 d8d54aa82805e9d94480209c5f300eba ffffffffffffffffffffffffffffffff 16240 /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+e87c59796e6c22cad0ff3cfc956f2ca2 d4461ba8a923e8d349d093ad24297267 ffffffffffffffffffffffffffffffff 9636 /Users/chris/Projects/objc/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+0c935100ca6243470d50b3317baa1be1 56b349ebb40d7b787587daae81f526b9 ffffffffffffffffffffffffffffffff 16592 /Users/chris/Projects/objc/lottery/build/Debug/lottery
+00000000005c4572000000000000137a e87c59792ef4c50fd0ff3cfc956f3816 ffffffffffffffffffffffffffffffff 41401104 /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/lottery_Prefix-gobwfxrrzuoekbdrzxqxtvjhrcbm/lottery_Prefix.pch.gch
 c44bb372de8152821bd23ac7508deff2 2693115e9d70b9be6a9f143b66e07a05 ffffffffffffffffffffffffffffffff 16328 /Users/chris/Projects/lottery/build/Debug/lottery
 243a24c2fa4d75eb81af0b512ee693bd d42efd3f7211211458b229f9a5efdee8 ffffffffffffffffffffffffffffffff 14332 /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
 243a24c2b1dd8eb281af0b512ee687ea 10654e4de7824de14360133ef5d151e3 ffffffffffffffffffffffffffffffff 9660 /Users/chris/Projects/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o

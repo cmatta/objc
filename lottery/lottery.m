@@ -26,17 +26,23 @@ int main (int argc, const char * argv[]) {
 									   seconds:0];
 		
 		// Create a new instance of LotteryEntry
-		LotteryEntry *newEntry = [[LotteryEntry alloc] init];
+		LotteryEntry *newEntry = [[LotteryEntry alloc] initWithEntryDate:iWeeksFromNow];
 		
-		[newEntry setEntryDate:iWeeksFromNow];
 		// Add the LotteryEntry object to the array
 		[array addObject:newEntry];
+		[newEntry release];
 	}
+	// Done with 'now'
+	[now release];
+	now = nil;
 	
 	for (LotteryEntry *entryToPrint in array) {
 		// Display its contents
 		NSLog(@"%@", entryToPrint);
 	}
+	// Done with 'array'
+	[array release];
+	array = nil;
 	
 	[pool drain];
 	return 0;
