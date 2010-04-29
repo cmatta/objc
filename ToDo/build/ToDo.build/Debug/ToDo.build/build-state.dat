@@ -1,0 +1,233 @@
+TToDo
+v7
+r0
+t294093539.559429
+cCheck dependencies
+cProcessInfoPlistFile /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist ToDo-Info.plist
+cCopyStringsFile /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch ToDo_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/ToDo/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o /Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/ToDo/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+cTouch /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BA713D600000000000000EE
+t1269240790
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chris/Projects/objc/ToDo/AppController.h
+c000000004BD7415F000000000000018A
+t1272398175
+s394
+i<Foundation/Foundation.h>
+
+N/Users/chris/Projects/objc/ToDo/AppController.m
+c000000004BD74AFF0000000000000475
+t1272400639
+s1141
+i"AppController.h"
+
+N/Users/chris/Projects/objc/ToDo/English.lproj/InfoPlist.strings
+c000000004BD72B24000000000000002D
+t1272392484
+s45
+
+N/Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib
+c000000004BD74B5A00000000000325D6
+t1272400730
+s206294
+
+N/Users/chris/Projects/objc/ToDo/ToDoAppDelegate.h
+c000000004BD72B240000000000000137
+t1272392484
+s311
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m
+c000000004BD72B240000000000000169
+t1272392484
+s361
+i"ToDoAppDelegate.h"
+
+N/Users/chris/Projects/objc/ToDo/ToDo_Prefix.pch
+c000000004BD72B24000000000000008B
+t1272392484
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app
+t1272400739
+s102
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+t1272394972
+s877
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+t1272400644
+s16640
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/PkgInfo
+t1272394972
+s8
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272394974
+s92
+
+N/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272400739
+s40339
+
+N/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o
+t1272400643
+s25284
+
+N/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList
+c000000004BD734DC0000000000000131
+t1272394972
+s305
+
+N/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o
+t1272394987
+s21016
+
+N/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+t1272394987
+s4976
+
+N/Users/chris/Projects/objc/ToDo/main.m
+c000000004BD72B2400000000000000FF
+t1272392484
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch
+t1272394986
+s54265616
+
+NToDo-Info.plist
+c000000004BD72B2400000000000003EA
+t1272392484
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294093539#294093539#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/ToDo/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294093443.183765
+e294093443.571733
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o
+x/Users/chris/Projects/objc/ToDo/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chris/Projects/objc/ToDo/AppController.m: In function '-[AppController tableView:setObjectValue:forTableColumn:row:]':
+o/Users/chris/Projects/objc/ToDo/AppController.m:62: warning: control reaches end of non-void function
+lSLF07#2@55"Compile /Users/chris/Projects/objc/ToDo/AppController.m294093443#294093443#0(228"/Users/chris/Projects/objc/ToDo/AppController.m: In function '-[AppController tableView:setObjectValue:forTableColumn:row:]':/Users/chris/Projects/objc/ToDo/AppController.m:62: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function294093443#126#102#0(6@47"/Users/chris/Projects/objc/ToDo/AppController.m294093439#62#0#62#0#40"control reaches end of non-void function0(0#0#47"/Users/chris/Projects/objc/ToDo/AppController.m4300739032#1331"    cd /Users/chris/Projects/objc/ToDo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap -F/Users/chris/Projects/objc/ToDo/build/Debug -I/Users/chris/Projects/objc/ToDo/build/Debug/include -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch -c /Users/chris/Projects/objc/ToDo/AppController.m -o /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o /Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294087786.946158
+e294087787.459496
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o
+x/Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m294087786#294087787#0(0"0(0#0#49"/Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m4300739032#1335"    cd /Users/chris/Projects/objc/ToDo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap -F/Users/chris/Projects/objc/ToDo/build/Debug -I/Users/chris/Projects/objc/ToDo/build/Debug/include -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch -c /Users/chris/Projects/objc/ToDo/ToDoAppDelegate.m -o /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o0#
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/ToDo/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294087786.919643
+e294087787.458281
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+x/Users/chris/Projects/objc/ToDo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/chris/Projects/objc/ToDo/main.m294087786#294087787#0(0"0(0#0#38"/Users/chris/Projects/objc/ToDo/main.m4300739032#1313"    cd /Users/chris/Projects/objc/ToDo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap -F/Users/chris/Projects/objc/ToDo/build/Debug -I/Users/chris/Projects/objc/ToDo/build/Debug/include -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch -c /Users/chris/Projects/objc/ToDo/main.m -o /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib
+s294093539.125656
+e294093539.546625
+r1
+xCompileXIB
+x/Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib294093539#294093539#0(0"0(0#0#58"/Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib4300739032#303"    cd /Users/chris/Projects/objc/ToDo    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chris/Projects/objc/ToDo/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s294087772.240287
+e294087774.231906
+r1
+xCopyStringsFile
+x/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings294087772#294087774#0(0"0(0#0#63"/Users/chris/Projects/objc/ToDo/English.lproj/InfoPlist.strings4300739032#348"    cd /Users/chris/Projects/objc/ToDo    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj0#
+
+CLd /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+s294093443.571821
+e294093444.047797
+r1
+xLd
+x/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo294093443#294093444#0(0"0(0#0#0"4300739032#492"    cd /Users/chris/Projects/objc/ToDo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Projects/objc/ToDo/build/Debug -F/Users/chris/Projects/objc/ToDo/build/Debug -filelist /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo0#
+
+CProcessInfoPlistFile /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist ToDo-Info.plist
+s294087772.226728
+e294087772.240187
+r1
+xProcessInfoPlistFile
+x/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+xToDo-Info.plist
+lSLF07#2@23"Process ToDo-Info.plist294087772#294087772#0(0"0(0#0#47"/Users/chris/Projects/objc/ToDo/ToDo-Info.plist4300739032#280"    cd /Users/chris/Projects/objc/ToDo    builtin-infoPlistUtility ToDo-Info.plist -genpkginfo /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch ToDo_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294087775.290269
+e294087786.919214
+r1
+xProcessPCH
+x/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch
+xToDo_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile ToDo_Prefix.pch294087775#294087786#0(0"0(0#0#47"/Users/chris/Projects/objc/ToDo/ToDo_Prefix.pch4300739032#1229"    cd /Users/chris/Projects/objc/ToDo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap -iquote /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap -F/Users/chris/Projects/objc/ToDo/build/Debug -I/Users/chris/Projects/objc/ToDo/build/Debug/include -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources -c /Users/chris/Projects/objc/ToDo/ToDo_Prefix.pch -o /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch0#
+
+CTouch /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app
+s294093539.547194
+e294093539.559385
+r1
+xTouch
+x/Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app
+lSLF07#2@58"Touch /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app294093539#294093539#0(0"0(0#0#0"4300739032#114"    cd /Users/chris/Projects/objc/ToDo    /usr/bin/touch -c /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app0#
+

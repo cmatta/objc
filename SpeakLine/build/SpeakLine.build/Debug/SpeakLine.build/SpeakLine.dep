@@ -1,0 +1,10 @@
+cbe3744033af34f67bcd7a5d2e5c1914 f4c4199c4c1478b5f50426c9e04ca96d ffffffffffffffffffffffffffffffff 102 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app
+cda898dc3ea0cf337297d1c9e8376e75 b91193ca3ba3203103faffc158df02bd ffffffffffffffffffffffffffffffff 17592 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+262c93e17c28cbd68da8cba7bd446474 1ef359f6c92bb1720d43bcc58ff6cc8b ffffffffffffffffffffffffffffffff 34248 /Users/chris/Projects/objc/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o
+262c93e1777c9eb08da8cba7bd447ef6 13c9363ba03c0612315d44f253041e96 ffffffffffffffffffffffffffffffff 21144 /Users/chris/Projects/objc/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o
+262c93e13cad219f8da8cba7bd447fc9 e6be64f061f6321fc321e25989817c2d ffffffffffffffffffffffffffffffff 4984 /Users/chris/Projects/objc/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+000000000b1515470000000000000170 262c93e13cad219f8da8cba7bd447e58 ffffffffffffffffffffffffffffffff 54265616 /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/SpeakLine_Prefix-fnpamtsnttexxtgftdrnixvlqldg/SpeakLine_Prefix.pch.gch
+000000004bd1f27e000000000003331a 0765efbe95f599fb9a7ec913eb2ebc0d ffffffffffffffffffffffffffffffff 40954 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004bd1bf2f000000000000002d b83f90e8a3590f5e90de9d467599fae6 ffffffffffffffffffffffffffffffff 92 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 92099d12281ad9ad788c85926c6af252 ffffffffffffffffffffffffffffffff 8 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo
+00000000000000000000000000000000 92099d12281ad9ad788c85926c6af252 ffffffffffffffffffffffffffffffff 892 /Users/chris/Projects/objc/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist

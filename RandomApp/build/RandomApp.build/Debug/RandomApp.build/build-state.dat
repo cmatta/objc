@@ -115,13 +115,104 @@ t1271429792
 s248
 i<Cocoa/Cocoa.h>
 
+N/Users/chris/Projects/objc/RandomApp/English.lproj/InfoPlist.strings
+c000000004BCCBEC5000000000000002D
+t1271709381
+s45
+
+N/Users/chris/Projects/objc/RandomApp/English.lproj/MainMenu.xib
+c000000004BCCBEC5000000000002F738
+t1271709381
+s194360
+
+N/Users/chris/Projects/objc/RandomApp/Foo.h
+c000000004BCCBEC50000000000000119
+t1271709381
+s281
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/RandomApp/Foo.m
+c000000004BCCBEC500000000000002BD
+t1271709381
+s701
+i"Foo.h"
+
+N/Users/chris/Projects/objc/RandomApp/RandomAppAppDelegate.h
+c000000004BCCBEC5000000000000013A
+t1271709381
+s314
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/RandomApp/RandomAppAppDelegate.m
+c000000004BCCBEC50000000000000171
+t1271709381
+s369
+i"RandomAppAppDelegate.h"
+
+N/Users/chris/Projects/objc/RandomApp/RandomApp_Prefix.pch
+c000000004BCCBEC50000000000000095
+t1271709381
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app
+t1271709381
+s102
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
+t1271709381
+s892
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
+t1271709381
+s15776
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo
+t1271709381
+s8
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1271709381
+s92
+
+N/Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib
+t1271709381
+s36957
+
+N/Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o
+t1271709381
+s16476
+
+N/Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList
+c000000004BCCBEC5000000000000014A
+t1271709381
+s330
+
+N/Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
+t1271709381
+s21136
+
+N/Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
+t1271709381
+s4976
+
+N/Users/chris/Projects/objc/RandomApp/main.m
+c000000004BCCBEC500000000000000F8
+t1271709381
+s248
+i<Cocoa/Cocoa.h>
+
 N/var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch.gch
 t1271429862
 s54265616
 
+N/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/RandomApp_Prefix-cdnafqaenmfnbwbfgnqqylviaybw/RandomApp_Prefix.pch.gch
+t2
+s0
+
 NRandomApp-Info.plist
-c000000004BC87AA000000000000003EA
-t1271429792
+c000000004BCCBEC500000000000003EA
+t1271709381
 s1002
 
 CCheck dependencies
@@ -141,6 +232,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@45"Compile /Users/chris/Projects/RandomApp/Foo.m293124496#293124496#0(0"0(0#0#37"/Users/chris/Projects/RandomApp/Foo.m4300788184#1411"    cd /Users/chris/Projects/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/chris/Projects/RandomApp/build/Debug -I/Users/chris/Projects/RandomApp/build/Debug/include -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch -c /Users/chris/Projects/RandomApp/Foo.m -o /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o0#
 
+CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o /Users/chris/Projects/objc/RandomApp/Foo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/chris/Projects/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s293122663.110396
 e293122663.512394
@@ -153,6 +247,9 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/chris/Projects/RandomApp/RandomAppAppDelegate.m293122663#293122663#0(0"0(0#0#54"/Users/chris/Projects/RandomApp/RandomAppAppDelegate.m4300788184#1445"    cd /Users/chris/Projects/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/chris/Projects/RandomApp/build/Debug -I/Users/chris/Projects/RandomApp/build/Debug/include -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch -c /Users/chris/Projects/RandomApp/RandomAppAppDelegate.m -o /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o0#
+
+CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/chris/Projects/objc/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/chris/Projects/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s293122663.089569
@@ -167,6 +264,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@46"Compile /Users/chris/Projects/RandomApp/main.m293122663#293122663#0(0"0(0#0#38"/Users/chris/Projects/RandomApp/main.m4300788184#1413"    cd /Users/chris/Projects/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/chris/Projects/RandomApp/build/Debug -I/Users/chris/Projects/RandomApp/build/Debug/include -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch -c /Users/chris/Projects/RandomApp/main.m -o /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o0#
 
+CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileXIB /Users/chris/Projects/RandomApp/English.lproj/MainMenu.xib
 s293124299.913242
 e293124300.795078
@@ -174,6 +274,9 @@ r1
 xCompileXIB
 x/Users/chris/Projects/RandomApp/English.lproj/MainMenu.xib
 lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib293124299#293124300#0(0"0(0#0#58"/Users/chris/Projects/RandomApp/English.lproj/MainMenu.xib4300788184#308"    cd /Users/chris/Projects/RandomApp    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chris/Projects/RandomApp/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/chris/Projects/objc/RandomApp/English.lproj/MainMenu.xib
+r0
 
 CCopyStringsFile /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
 s293122637.746506
@@ -183,6 +286,9 @@ xCopyStringsFile
 x/Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings293122637#293122639#0(0"0(0#0#63"/Users/chris/Projects/RandomApp/English.lproj/InfoPlist.strings4300788184#353"    cd /Users/chris/Projects/RandomApp    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
 
 CLd /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
 s293124496.814358
@@ -194,6 +300,9 @@ xnormal
 xx86_64
 lSLF07#2@87"Link /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp293124496#293124496#0(0"0(0#0#0"4300788184#517"    cd /Users/chris/Projects/RandomApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Projects/RandomApp/build/Debug -F/Users/chris/Projects/RandomApp/build/Debug -filelist /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp0#
 
+CLd /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
+r0
+
 CProcessInfoPlistFile /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
 s293122637.653502
 e293122637.746375
@@ -202,6 +311,9 @@ xProcessInfoPlistFile
 x/Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
 xRandomApp-Info.plist
 lSLF07#2@28"Process RandomApp-Info.plist293122637#293122637#0(0"0(0#0#52"/Users/chris/Projects/RandomApp/RandomApp-Info.plist18296341644902500#295"    cd /Users/chris/Projects/RandomApp    builtin-infoPlistUtility RandomApp-Info.plist -genpkginfo /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
+r0
 
 CProcessPCH /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s293122640.151754
@@ -216,6 +328,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile RandomApp_Prefix.pch293122640#293122663#0(0"0(0#0#52"/Users/chris/Projects/RandomApp/RandomApp_Prefix.pch4300788184#1324"    cd /Users/chris/Projects/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/chris/Projects/RandomApp/build/Debug -I/Users/chris/Projects/RandomApp/build/Debug/include -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -c /Users/chris/Projects/RandomApp/RandomApp_Prefix.pch -o /var/folders/jX/jXRW6kzsE+uOCwcLE-0vG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-bmlkfhiaxvnettehjrenknrkegqr/RandomApp_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/RandomApp_Prefix-cdnafqaenmfnbwbfgnqqylviaybw/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CTouch /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app
 s293124496.853951
 e293124496.856634
@@ -223,4 +338,7 @@ r1
 xTouch
 x/Users/chris/Projects/RandomApp/build/Debug/RandomApp.app
 lSLF07#2@63"Touch /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app293124496#293124496#0(0"0(0#0#0"4300788184#119"    cd /Users/chris/Projects/RandomApp    /usr/bin/touch -c /Users/chris/Projects/RandomApp/build/Debug/RandomApp.app0#
+
+CTouch /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app
+r0
 

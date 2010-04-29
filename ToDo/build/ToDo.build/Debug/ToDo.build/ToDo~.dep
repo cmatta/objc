@@ -1,0 +1,10 @@
+110ec722e4bcd14933ff97dd89d93ab0 336bef67b131d456f5f79505e2e4c064 ffffffffffffffffffffffffffffffff 102 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app
+adce7b3ed2bbc4fa72c9cc1096dd009c 9d52657330ed0a6788aa4cb186a28ef7 ffffffffffffffffffffffffffffffff 16080 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+000000004bd7301000000000000317a7 b4ec91a32a3df228345c07fe13a17b66 ffffffffffffffffffffffffffffffff 39896 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004bd72b24000000000000002d 957e48cc2cd7f6c8fdc010828a04d837 ffffffffffffffffffffffffffffffff 92 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 5ae4d9b6a6f46d6dd0dfb69f87be4535 ffffffffffffffffffffffffffffffff 8 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/PkgInfo
+00000000000000000000000000000000 5ae4d9b6a6f46d6dd0dfb69f87be4535 ffffffffffffffffffffffffffffffff 877 /Users/chris/Projects/objc/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+b4c2f3569819ce898cd3365b2c9239cd c28765d321f1cf9c61d45a69cc6d12fb ffffffffffffffffffffffffffffffff 21540 /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/AppController.o
+b4c2f356934d9b278cd3365b2c9228bb 1400c3547434c441d5d7765115b658e2 ffffffffffffffffffffffffffffffff 21016 /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o
+b4c2f356d89ab0038cd3365b2c92281a cf8b2eef5508143f4a19d6736394d6e7 ffffffffffffffffffffffffffffffff 4976 /Users/chris/Projects/objc/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+000000000b13814c000000000000016e b4c2f356d89ab0038cd3365b2c92286e ffffffffffffffffffffffffffffffff 54265616 /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/ToDo_Prefix-harddignggelmzcsvpjmbfttkjbq/ToDo_Prefix.pch.gch

@@ -1,3 +1,13 @@
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 16476 /Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 21136 /Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 4976 /Users/chris/Projects/objc/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 102 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 15776 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/RandomApp_Prefix-cdnafqaenmfnbwbfgnqqylviaybw/RandomApp_Prefix.pch.gch
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 36957 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 92 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 892 /Users/chris/Projects/objc/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
 c6c0b26f455d88757392c85f45162893 f9e9142551ca7eed1c68c0954429f29e ffffffffffffffffffffffffffffffff 16476 /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o
 c6c0b26f455d771d7392c85f45162b7c e6278de1de942a6e311f950ad599ba50 ffffffffffffffffffffffffffffffff 21136 /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
 c6c0b26f0e950dbd7392c85f45162bcf 76aa1d9656c35684a4af0554fc217797 ffffffffffffffffffffffffffffffff 4976 /Users/chris/Projects/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o

@@ -1,0 +1,222 @@
+TCountCharacters
+v7
+r0
+t293734543.225616
+cCheck dependencies
+cProcessInfoPlistFile /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Info.plist CountCharacters-Info.plist
+cCopyStringsFile /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch.gch CountCharacters_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/CountCharacters/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharactersAppDelegate.o /Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/CountCharacters/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BA713D600000000000000EE
+t1269240790
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chris/Projects/objc/CountCharacters/AppController.h
+c000000004BD1D0FE0000000000000157
+t1272041726
+s343
+i<Foundation/Foundation.h>
+
+N/Users/chris/Projects/objc/CountCharacters/AppController.m
+c000000004BD1D0FE0000000000000296
+t1272041726
+s662
+i"AppController.h"
+
+N/Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.h
+c000000004BD1C9550000000000000158
+t1272039765
+s344
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m
+c000000004BD1C9550000000000000195
+t1272039765
+s405
+i"CountCharactersAppDelegate.h"
+
+N/Users/chris/Projects/objc/CountCharacters/CountCharacters_Prefix.pch
+c000000004BD1C95500000000000000A1
+t1272039765
+s161
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/CountCharacters/English.lproj/InfoPlist.strings
+c000000004BD1C955000000000000002D
+t1272039765
+s45
+
+N/Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib
+c000000004BD1CD73000000000002F962
+t1272040819
+s194914
+
+N/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharacters.LinkFileList
+c000000004BD1D0FE000000000000019F
+t1272041726
+s415
+
+N/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharactersAppDelegate.o
+t1272041743
+s21312
+
+N/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/main.o
+t1272041743
+s5000
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app
+t2
+s0
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Info.plist
+t1272041726
+s910
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/MacOS/CountCharacters
+t2
+s0
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/PkgInfo
+t1272041726
+s8
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272041727
+s92
+
+N/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272041727
+s37114
+
+N/Users/chris/Projects/objc/CountCharacters/main.m
+c000000004BD1C955000000000000010A
+t1272039765
+s266
+i<Cocoa/Cocoa.h>
+
+N/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch.gch
+t1272041742
+s54265616
+
+NCountCharacters-Info.plist
+c000000004BD1C95500000000000003EA
+t1272039765
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293734526#293734526#0(0"0(0#1#0"28710924367954036#0"0#
+
+CCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/CountCharacters/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293734543.091580
+e293734543.225534
+r0
+xCompileC
+xbuild/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/AppController.o
+x/Users/chris/Projects/objc/CountCharacters/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chris/Projects/objc/CountCharacters/AppController.m: In function '-[AppController countIt:]':
+o/Users/chris/Projects/objc/CountCharacters/AppController.m:32: error: too many arguments to function 'setStringValue:'
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+lSLF07#2@66"Compile /Users/chris/Projects/objc/CountCharacters/AppController.m293734543#293734543#0(455"/Users/chris/Projects/objc/CountCharacters/AppController.m: In function '-[AppController countIt:]':/Users/chris/Projects/objc/CountCharacters/AppController.m:32: error: too many arguments to function 'setStringValue:'{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_11(4@48"Too many arguments to function 'setStringValue:'293734543#101#119#0(6@58"/Users/chris/Projects/objc/CountCharacters/AppController.m293734526#32#0#32#0#0"0(0#0#58"/Users/chris/Projects/objc/CountCharacters/AppController.m4300739032#1672"    cd /Users/chris/Projects/objc/CountCharacters    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-generated-files.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-own-target-headers.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-all-target-headers.hmap -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-project-headers.hmap -F/Users/chris/Projects/objc/CountCharacters/build/Debug -I/Users/chris/Projects/objc/CountCharacters/build/Debug/include -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch -c /Users/chris/Projects/objc/CountCharacters/AppController.m -o /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/AppController.o1#
+
+CCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharactersAppDelegate.o /Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293734542.873813
+e293734543.123061
+r1
+xCompileC
+xbuild/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharactersAppDelegate.o
+x/Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m293734542#293734543#0(0"0(0#0#71"/Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m4300739032#1698"    cd /Users/chris/Projects/objc/CountCharacters    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-generated-files.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-own-target-headers.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-all-target-headers.hmap -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-project-headers.hmap -F/Users/chris/Projects/objc/CountCharacters/build/Debug -I/Users/chris/Projects/objc/CountCharacters/build/Debug/include -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch -c /Users/chris/Projects/objc/CountCharacters/CountCharactersAppDelegate.m -o /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/CountCharactersAppDelegate.o0#
+
+CCompileC build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/CountCharacters/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293734542.858408
+e293734543.091442
+r1
+xCompileC
+xbuild/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/main.o
+x/Users/chris/Projects/objc/CountCharacters/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/chris/Projects/objc/CountCharacters/main.m293734542#293734543#0(0"0(0#0#49"/Users/chris/Projects/objc/CountCharacters/main.m4300739032#1654"    cd /Users/chris/Projects/objc/CountCharacters    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-generated-files.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-own-target-headers.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-all-target-headers.hmap -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-project-headers.hmap -F/Users/chris/Projects/objc/CountCharacters/build/Debug -I/Users/chris/Projects/objc/CountCharacters/build/Debug/include -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch -c /Users/chris/Projects/objc/CountCharacters/main.m -o /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib
+s293734526.167912
+e293734527.854837
+r1
+xCompileXIB
+x/Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib293734526#293734527#0(0"0(0#0#69"/Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib4300739032#347"    cd /Users/chris/Projects/objc/CountCharacters    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chris/Projects/objc/CountCharacters/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s293734526.139786
+e293734527.116076
+r1
+xCopyStringsFile
+x/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings293734526#293734527#0(0"0(0#0#74"/Users/chris/Projects/objc/CountCharacters/English.lproj/InfoPlist.strings4300739032#381"    cd /Users/chris/Projects/objc/CountCharacters    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Resources/English.lproj0#
+
+CLd /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/MacOS/CountCharacters normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Info.plist CountCharacters-Info.plist
+s293734526.135828
+e293734526.139689
+r1
+xProcessInfoPlistFile
+x/Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Info.plist
+xCountCharacters-Info.plist
+lSLF07#2@34"Process CountCharacters-Info.plist293734526#293734526#0(0"0(0#0#69"/Users/chris/Projects/objc/CountCharacters/CountCharacters-Info.plist28429264708632676#346"    cd /Users/chris/Projects/objc/CountCharacters    builtin-infoPlistUtility CountCharacters-Info.plist -genpkginfo /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch.gch CountCharacters_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s293734527.855014
+e293734542.858171
+r1
+xProcessPCH
+x/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch.gch
+xCountCharacters_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CountCharacters_Prefix.pch293734527#293734542#0(0"0(0#0#69"/Users/chris/Projects/objc/CountCharacters/CountCharacters_Prefix.pch4300739032#1548"    cd /Users/chris/Projects/objc/CountCharacters    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-generated-files.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-own-target-headers.hmap -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-all-target-headers.hmap -iquote /Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/CountCharacters-project-headers.hmap -F/Users/chris/Projects/objc/CountCharacters/build/Debug -I/Users/chris/Projects/objc/CountCharacters/build/Debug/include -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/CountCharacters/build/CountCharacters.build/Debug/CountCharacters.build/DerivedSources -c /Users/chris/Projects/objc/CountCharacters/CountCharacters_Prefix.pch -o /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/CountCharacters_Prefix-fksdgevcicylacefghlefvdovthm/CountCharacters_Prefix.pch.gch0#
+
+CTouch /Users/chris/Projects/objc/CountCharacters/build/Debug/CountCharacters.app
+r0
+

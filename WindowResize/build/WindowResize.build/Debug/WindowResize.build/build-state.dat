@@ -1,0 +1,231 @@
+TWindowResize
+v7
+r0
+t294085210.952857
+cCheck dependencies
+cProcessInfoPlistFile /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist WindowResize-Info.plist
+cCopyStringsFile /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch.gch WindowResize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/WindowResize/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResizeAppDelegate.o /Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/WindowResize/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize normal x86_64
+cTouch /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BA713D600000000000000EE
+t1269240790
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chris/Projects/objc/WindowResize/AppController.h
+c000000004BD71C320000000000000170
+t1272388658
+s368
+i<Foundation/Foundation.h>
+
+N/Users/chris/Projects/objc/WindowResize/AppController.m
+c000000004BD72A7B00000000000002D9
+t1272392315
+s729
+i"AppController.h"
+
+N/Users/chris/Projects/objc/WindowResize/English.lproj/InfoPlist.strings
+c000000004BD5F0B7000000000000002D
+t1272311991
+s45
+
+N/Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib
+c000000004BD72AD5000000000002E0BE
+t1272392405
+s188606
+
+N/Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.h
+c000000004BD5F0B7000000000000014F
+t1272311991
+s335
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m
+c000000004BD5F0B70000000000000189
+t1272311991
+s393
+i"WindowResizeAppDelegate.h"
+
+N/Users/chris/Projects/objc/WindowResize/WindowResize_Prefix.pch
+c000000004BD5F0B7000000000000009B
+t1272311991
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app
+t1272392408
+s102
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist
+t1272388004
+s901
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize
+t1272392333
+s16080
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/PkgInfo
+t1272388004
+s8
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1272388006
+s92
+
+N/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/MainMenu.nib
+t1272392408
+s35814
+
+N/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppController.o
+t1272392333
+s23144
+
+N/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResize.LinkFileList
+c000000004BD719A40000000000000181
+t1272388004
+s385
+
+N/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResizeAppDelegate.o
+t1272388022
+s21232
+
+N/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o
+t1272388022
+s4992
+
+N/Users/chris/Projects/objc/WindowResize/main.m
+c000000004BD5F0B70000000000000107
+t1272311991
+s263
+i<Cocoa/Cocoa.h>
+
+N/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch.gch
+t1272388022
+s54265616
+
+NWindowResize-Info.plist
+c000000004BD5F0B700000000000003EA
+t1272311991
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294085210#294085210#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppController.o /Users/chris/Projects/objc/WindowResize/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294085132.919682
+e294085133.324638
+r1
+xCompileC
+xbuild/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppController.o
+x/Users/chris/Projects/objc/WindowResize/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/chris/Projects/objc/WindowResize/AppController.m294085132#294085133#0(0"0(0#0#55"/Users/chris/Projects/objc/WindowResize/AppController.m4300739032#1579"    cd /Users/chris/Projects/objc/WindowResize    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap -F/Users/chris/Projects/objc/WindowResize/build/Debug -I/Users/chris/Projects/objc/WindowResize/build/Debug/include -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch -c /Users/chris/Projects/objc/WindowResize/AppController.m -o /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResizeAppDelegate.o /Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294080822.323318
+e294080822.796791
+r1
+xCompileC
+xbuild/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResizeAppDelegate.o
+x/Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m294080822#294080822#0(0"0(0#0#65"/Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m4300739032#1599"    cd /Users/chris/Projects/objc/WindowResize    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap -F/Users/chris/Projects/objc/WindowResize/build/Debug -I/Users/chris/Projects/objc/WindowResize/build/Debug/include -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch -c /Users/chris/Projects/objc/WindowResize/WindowResizeAppDelegate.m -o /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResizeAppDelegate.o0#
+
+CCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o /Users/chris/Projects/objc/WindowResize/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294080822.322308
+e294080822.795464
+r1
+xCompileC
+xbuild/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o
+x/Users/chris/Projects/objc/WindowResize/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/chris/Projects/objc/WindowResize/main.m294080822#294080822#0(0"0(0#0#46"/Users/chris/Projects/objc/WindowResize/main.m4300739032#1561"    cd /Users/chris/Projects/objc/WindowResize    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap -F/Users/chris/Projects/objc/WindowResize/build/Debug -I/Users/chris/Projects/objc/WindowResize/build/Debug/include -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources -include /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch -c /Users/chris/Projects/objc/WindowResize/main.m -o /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib
+s294085207.982526
+e294085208.322282
+r1
+xCompileXIB
+x/Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib294085207#294085208#0(0"0(0#0#66"/Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib4300739032#335"    cd /Users/chris/Projects/objc/WindowResize    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/MainMenu.nib /Users/chris/Projects/objc/WindowResize/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s294080804.866271
+e294080806.077319
+r1
+xCopyStringsFile
+x/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings294080804#294080806#0(0"0(0#0#71"/Users/chris/Projects/objc/WindowResize/English.lproj/InfoPlist.strings4300739032#372"    cd /Users/chris/Projects/objc/WindowResize    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Resources/English.lproj0#
+
+CLd /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize normal x86_64
+s294085133.324750
+e294085133.557898
+r1
+xLd
+x/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize
+xnormal
+xx86_64
+lSLF07#2@101"Link /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize294085133#294085133#0(0"0(0#0#0"4300739032#572"    cd /Users/chris/Projects/objc/WindowResize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/chris/Projects/objc/WindowResize/build/Debug -F/Users/chris/Projects/objc/WindowResize/build/Debug -filelist /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResize.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize0#
+
+CProcessInfoPlistFile /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist WindowResize-Info.plist
+s294080804.856838
+e294080804.866191
+r1
+xProcessInfoPlistFile
+x/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist
+xWindowResize-Info.plist
+lSLF07#2@31"Process WindowResize-Info.plist294080804#294080804#0(0"0(0#0#63"/Users/chris/Projects/objc/WindowResize/WindowResize-Info.plist4300739032#328"    cd /Users/chris/Projects/objc/WindowResize    builtin-infoPlistUtility WindowResize-Info.plist -genpkginfo /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch.gch WindowResize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294080806.838985
+e294080822.322157
+r1
+xProcessPCH
+x/var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch.gch
+xWindowResize_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile WindowResize_Prefix.pch294080806#294080822#0(0"0(0#0#63"/Users/chris/Projects/objc/WindowResize/WindowResize_Prefix.pch4300739032#1461"    cd /Users/chris/Projects/objc/WindowResize    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap -iquote /Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap -F/Users/chris/Projects/objc/WindowResize/build/Debug -I/Users/chris/Projects/objc/WindowResize/build/Debug/include -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64 -I/Users/chris/Projects/objc/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources -c /Users/chris/Projects/objc/WindowResize/WindowResize_Prefix.pch -o /var/folders/qh/qhes-Z-CEcigKrjMaXLmik+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/WindowResize_Prefix-fnmlvzoaubzsmsgcsvehaflfubgu/WindowResize_Prefix.pch.gch0#
+
+CTouch /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app
+s294085208.322859
+e294085208.325597
+r1
+xTouch
+x/Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app
+lSLF07#2@74"Touch /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app294085208#294085208#0(0"0(0#0#0"4300739032#138"    cd /Users/chris/Projects/objc/WindowResize    /usr/bin/touch -c /Users/chris/Projects/objc/WindowResize/build/Debug/WindowResize.app0#
+
